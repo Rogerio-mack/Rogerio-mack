@@ -34,6 +34,12 @@
 
 - Oliveira, R. (2020). eBook. [Deep Learning I: Modelos Sequenciais e Autoencoders](https://github.com/Rogerio-mack/Deep-Learning-I)  
 
+### Recent Short-Courses, Workshops and Presentations
+
+- Oliveira, R. Albarracin, O.Y., Rocha, G. (2022). [Mini Curso de Séries Temporais com Python](https://github.com/Rogerio-mack/Hackathon-Itau-Mackenzie). Capacitação de alunos para o Hackathon-Itau-Mackenzie na Semana da Escola de Engenharia.
+
+- Oliveira, R. (2022). [Arte & IA Generativa](https://github.com/Rogerio-mack/Arte_Generativa). Workshop com Labs de Arte Generativa e IA na Semana Inovação Tecnológica da FCI. 
+
 <!---
 Rogerio-mack/Rogerio-mack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
