@@ -21,7 +21,6 @@
 <br>
 <br>
 <br>
-<br>
 
 ### Recent Course Materials in Data Science and ML
 
