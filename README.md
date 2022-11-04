@@ -5,7 +5,6 @@
 - 🌱 I’m currently producing lots of Data Science and ML educational materials, mainly in Python. I’m also trying to apply AI/Deep Learning in many fields such as e-commerce, stocks market, space weather and medical data. You can get some of this here and I’m open to collaborate on apply ML in any field.
 - 📫 You can reach me here or sending a e-mail to rogerio.oliveira@mackenzie.br
 
-<br>
 
 ### Book
 
@@ -23,9 +22,8 @@
 <br>
 <br>
 <br>
-<br>
 
-### Published Courses in Data Science and ML
+### Recent Course Materials in Data Science and ML
 
 - Oliveira, R. (2022). eBook. [Aprendizado de Máquina I](https://github.com/Rogerio-mack/Machine-Learning-I)   
 
