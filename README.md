@@ -26,7 +26,7 @@
 <br>
 <br>
 
-### Published Repositories in Data Sciene and ML
+### Published Repositories in Data Science and ML
 
 - Oliveira, R. (2022). eBook. [Aprendizado de Máquina I](https://github.com/Rogerio-mack/Machine-Learning-I)   
 
