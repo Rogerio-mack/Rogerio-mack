@@ -32,6 +32,8 @@
 
 - Oliveira, R. (2021). eBook. [AED Análise Exploratória de Dados com R e Python](https://github.com/Rogerio-mack/Analise_Exploratoria_de_Dados)  
 
+- Oliveira, R. (2021). eBook. [Probabilidade e Estatística Aplicada com R](https://github.com/Rogerio-mack/Probabilidade-Estatistica-Aplicada-R)
+
 - Oliveira, R. (2021). eBook. [BIG DATA Analytics: Mineração e Análise de Dados](https://github.com/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados)   
 
 - Oliveira, R. (2020). eBook. [Deep Learning I: Modelos Sequenciais e Autoencoders](https://github.com/Rogerio-mack/Deep-Learning-I)  
