@@ -6,8 +6,10 @@
 - 📫 You can reach me here or sending a e-mail to rogerio.oliveira@mackenzie.br
 
 
-### Book
+### Books
 
+- Oliveira, R., Abarracin, O. Y. E., Silva, G. R. (2024) [Introdução às Séries Temporais: Uma Abordagem Prática em Python](https://github.com/Introducao-Series-Temporais-em-Python/Book) (*in printing*). Editora Mackenzie.
+ 
 - Oliveira, R. (2022). [Visualizacao de Dados em Python](https://github.com/Rogerio-mack/Visualizacao-de-Dados-em-Python) ISBN: 978-65-5545-511-3. [Editora Mackenzie](https://www.mackenzie.br/editora/livro/n/a/i/visualizacao-de-dados-com-python), [Amazon](https://www.amazon.com.br/VISUALIZA%C3%87%C3%83O-DADOS-PYTHON-ROGERIO-OLIVEIRA/dp/655545511X) ou [Martins Fontes](https://www.martinsfontespaulista.com.br/visualizacao-de-dados-com-python-997336/p)
 <p>
   <img src="https://github.com/Rogerio-mack/Visualizacao-de-Dados-em-Python/raw/main/figuras/capas/1.png" width="20%" align="left"/>
