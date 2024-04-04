@@ -1,9 +1,9 @@
 ## Welcome!
 
-- 👋 Hi, I’m Rogério de Oliveira and I'm a teacher at *Universidade Presbiteriana Mackenzie (Brasil, SP)*  
+- 👋 Hi, I’m Rogério de Oliveira and I'm a teacher at *UPM Universidade Presbiteriana Mackenzie (Brasil, SP)* and *IMT Instituto Mauá de Tecnologia (Brazil, SP)* 
 - 👀 I’m interested in **AI, ML, Deep Learning, Data Science, Time Series, Data Visualization, Open Data, Python (and Climbing)**
 - 🌱 I’m currently producing lots of Data Science and ML educational materials, mainly in Python. I’m also applying AI/Deep Learning with my students in many fields such as e-commerce, stocks market, space weather and medical data. You can get some of this here and I’m open to collaborate on apply ML in any field.
-- 📫 You can reach me here or sending a e-mail to rogerio.oliveira@mackenzie.br
+- 📫 You can reach me here or sending a e-mail to rogerio.oliveira{@mackenzie.br, @maua.br}
 
 
 ### Books
